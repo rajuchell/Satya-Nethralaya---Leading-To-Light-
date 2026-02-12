@@ -1,0 +1,7 @@
+{
+  "name": "Satya Nethralaya - Leading To Light",
+  "description": "A cinematic, high-conversion, medically premium website for Satya Nethralaya Eye Hospital in Gangavathi, Karnataka.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
